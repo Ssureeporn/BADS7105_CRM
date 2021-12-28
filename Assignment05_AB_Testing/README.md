@@ -1,6 +1,6 @@
 # A/B Testing
 
-## Iphone color Blue or Pink
+## Iphone color blue or pink
 
 ![i phone1](https://github.com/Ssureeporn/BADS7105_CRM/blob/main/Assignment05_AB_Testing/05_ABTesting_1.jpg)
 
