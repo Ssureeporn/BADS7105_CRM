@@ -6,7 +6,7 @@
 
 ## 2. Data Preparation
 
-SQL: SQL Coding
+SQL: [SQL Coding](https://github.com/Ssureeporn/BADS7105_CRM/blob/main/Assignment06_Churn_Analysis/Assignment06_Churn_Analysis.sql)
 
 ## 3. Visualize data from Data Studio
 
