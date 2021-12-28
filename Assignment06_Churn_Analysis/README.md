@@ -8,7 +8,7 @@
 
 SQL: [SQL Coding](https://github.com/Ssureeporn/BADS7105_CRM/blob/main/Assignment06_Churn_Analysis/Assignment06_Churn_Analysis.sql)
 
-## 3. Visualize data from Data Studio
+## 3. Data Visualization from Data Studio
 
 ![Churn_Analysis1](https://github.com/Ssureeporn/BADS7105_CRM/blob/main/Assignment06_Churn_Analysis/06_Churn_Analysis_1.JPG)
 
