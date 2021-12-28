@@ -1,4 +1,4 @@
-# CampaignResponseModel
+# Campaign Response Model
 
 ## 1. Import Dataset
 
