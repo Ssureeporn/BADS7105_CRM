@@ -1,4 +1,4 @@
-# Product_Recommendation
+# Product Recommendation
 ## 1. Import Dataset
 
 “Prod_Rec.csv”
