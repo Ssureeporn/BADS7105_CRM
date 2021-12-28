@@ -2,15 +2,15 @@
 
 ## 1. Import Dataset
 
-Retail_Data_Response.csv
+1.1 Retail_Data_Response.csv
 
-Retail_Data_Transactions.csv
+1.2 Retail_Data_Transactions.csv
 
 ## 2. Data Preparation
 
-### 2.1 Create data set with RFM variables
+2.1 Create data set with RFM variables
 
-### 2.2 Create data set with CLV variables
+2.2 Create data set with CLV variables
 
 ## 3. Calculating response rate
 
