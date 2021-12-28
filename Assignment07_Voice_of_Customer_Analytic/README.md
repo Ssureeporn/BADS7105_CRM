@@ -20,17 +20,18 @@ clustering using K-Means result
 
 ![Result](https://github.com/Ssureeporn/BADS7105_CRM/blob/main/Assignment07_Voice_of_Customer_Analytic/07_4_result.JPG)
 
-Group 0 (Traveler)
+### Group 0 (Traveler)
 
 จะมีคำที่เกี่ยวข้องทั้งร้านอาหาร, ร้านกาแฟ และจะมีคำที่ทำให้ประเมิณได้ว่ากลุ่มนี้จะเป็น คอมเม้น จากคนที่เข้าร้านโดยความบังเอิญ หรือ มาเป็นครั้งแรก
-Group 1 (Zap Zap)
+
+### Group 1 (Zap Zap)
 
 จะเป็นคำที่เกี่ยวข้องร้านอาหาร และเป็นอาหารอีสานที่มากินกับเพื่อนมีเมนู อย่างเช่นส้มตำ เป็นหลัก
 
-Group 2 (Cafe Hopping)
+### Group 2 (Cafe Hopping)
 
 เป็นคอมเม้นของร้านกาแฟ-เบเกอรี่ ทางด้านที่ดี 
 
-Group 3 (Kaimook Lover)
+### Group 3 (Kaimook Lover)
 
 จะเป็นกลุ่มคอมเม้นที่เกี่ยวข้องกับเครื่องดื่มโดยเฉพาะชานมไข่มุกที่เรารักส์
