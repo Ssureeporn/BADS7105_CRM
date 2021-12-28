@@ -16,19 +16,19 @@ Calculate features
 
 ## 4. Spectral Clustering 
 
-  ### 4.1 Cluster PCA Plot
+### 4.1 Cluster PCA Plot
 
 ![PCA Plot](https://github.com/Ssureeporn/BADS7105_CRM/blob/main/Assignment02_Customer_Segmentation/02_4_1_Cluster%20PCA%20Plot.JPG)
 
-  ### 4.2 Distortion Score Elbow for K-means Clustering
+### 4.2 Distortion Score Elbow for K-means Clustering
 
-![K-means Clustering](https://github.com/Ssureeporn/BADS7105_CRM/blob/main/Assignment02_Customer_Segmentation/02_4_2_Distortion%20Score%20Elbow%20for%20K-means%20Clustering.JPG)
+![Score Elbow](https://github.com/Ssureeporn/BADS7105_CRM/blob/main/Assignment02_Customer_Segmentation/02_4_2_Distortion%20Score%20Elbow%20for%20K-means%20Clustering.JPG)
 
-  ### 4.3 Number of Customer of Each Clustering
+### 4.3 Number of Customer of Each Clustering
 
-![Number of Customer](https://github.com/Ssureeporn/BADS7105_CRM/blob/main/Assignment02_Customer_Segmentation/02_4_3_Number%20of%20Customer%20of%20Each%20Clustering.JPG)
+![Number of Clustering](https://github.com/Ssureeporn/BADS7105_CRM/blob/main/Assignment02_Customer_Segmentation/02_4_3_Number%20of%20Customer%20of%20Each%20Clustering.JPG)
 
-  ### 4.4 Silhouette Plot of K-Means Clustering for 6100 Samples in 4 Centers
+### 4.4 Silhouette Plot of K-Means Clustering for 6100 Samples in 4 Centers
 
 ![Silhouette Plot](https://github.com/Ssureeporn/BADS7105_CRM/blob/main/Assignment02_Customer_Segmentation/02_4_4_Silhouette%20Plot%20of%20K-Means%20Clustering%20for%206100%20Samples%20in%204%20Centers.JPG)
 
@@ -36,7 +36,7 @@ Calculate features
 
 ### cluster0 (Looker Customers):  Low total spend, Lowest recency and avg time between visit 
 
-  Recommend :
+Recommend :
 
 1. Run analysis on the cost vs revenue of offering promotions
 
@@ -44,7 +44,7 @@ Calculate features
 
 ### cluster1 (So-so):  Average total spend, Recency and avg time between visit 
 
-  Recommend :
+Recommend :
 
 1. Daily promotion special
 
@@ -52,7 +52,7 @@ Calculate features
 
 ### cluster2 (Royal):  Highest total spend, Highest Recency, Lowest avg between visit
 
-  Recommend : 
+Recommend : 
 
 1. New products
 
@@ -60,7 +60,7 @@ Calculate features
 
 ### cluster3 (Richer Customers):  High total spend, High Recency, Low avg between visit 
 
-  Recommend :
+Recommend :
 
 1. upsell 
 
