@@ -2,9 +2,9 @@
 
 ## 1. Import Dataset
 
-1.1 Retail_Data_Response.csv
+1.1 "Retail_Data_Response.csv"
 
-1.2 Retail_Data_Transactions.csv
+1.2 "Retail_Data_Transactions.csv"
 
 ## 2. Data Preparation
 
