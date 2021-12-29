@@ -1,4 +1,4 @@
-## Campaign Response Model
+# Campaign Response Model
 
 ## 1. Import Dataset
 
@@ -16,36 +16,36 @@
 
 Data is imbalanced
 
-![imbalanced data](https://github.com/Ssureeporn/BADS7105_CRM/blob/main/Assignment04_CampaignResponseModel/04_3_Calculating%20response%20rate.JPG)
+![imbalanced data](https://github.com/Ssureeporn/BADS7105_CRM/blob/main/Assignment04_Campaign_Response_Model/04_3_Calculating%20response%20rate.JPG)
 
 ## 4. Creating train and test dataset
 
 ### 4.1 RFM
 
-![RFM](https://github.com/Ssureeporn/BADS7105_CRM/blob/main/Assignment04_CampaignResponseModel/04_4_1_RFM.JPG)
+![RFM](https://github.com/Ssureeporn/BADS7105_CRM/blob/main/Assignment04_Campaign_Response_Model/04_4_1_RFM.JPG)
 
 ### 4.2 CLV
 
-![CLV1](https://github.com/Ssureeporn/BADS7105_CRM/blob/main/Assignment04_CampaignResponseModel/04_4_2_CLV_1.JPG)
-![CLV2](https://github.com/Ssureeporn/BADS7105_CRM/blob/main/Assignment04_CampaignResponseModel/04_4_2_CLV_2.JPG)
-![CLV3](https://github.com/Ssureeporn/BADS7105_CRM/blob/main/Assignment04_CampaignResponseModel/04_4_2_CLV_3.JPG)
-![CLV4](https://github.com/Ssureeporn/BADS7105_CRM/blob/main/Assignment04_CampaignResponseModel/04_4_2_CLV_4.JPG)
+![CLV1](https://github.com/Ssureeporn/BADS7105_CRM/blob/main/Assignment04_Campaign_Response_Model/04_4_2_CLV_1.JPG)
+![CLV2](https://github.com/Ssureeporn/BADS7105_CRM/blob/main/Assignment04_Campaign_Response_Model/04_4_2_CLV_2.JPG)
+![CLV3](https://github.com/Ssureeporn/BADS7105_CRM/blob/main/Assignment04_Campaign_Response_Model/04_4_2_CLV_3.JPG)
+![CLV4](https://github.com/Ssureeporn/BADS7105_CRM/blob/main/Assignment04_Campaign_Response_Model/04_4_2_CLV_4.JPG)
 
 ## 5. Fixing Imbalanced with SMOTE
 
 ### 5.1 Logistic Regression (SMOTE RFM & SMOTE CLV)
 
-![Logistic Regression](https://github.com/Ssureeporn/BADS7105_CRM/blob/main/Assignment04_CampaignResponseModel/04_5_1_Logistic%20Regression%20(SMOTE%20RFM%20%26%20SMOTE%20CLV).jpg)
+![Logistic Regression](https://github.com/Ssureeporn/BADS7105_CRM/blob/main/Assignment04_Campaign_Response_Model/04_5_1_Logistic%20Regression%20(SMOTE%20RFM%20%26%20SMOTE%20CLV).jpg)
 
 ### 5.2 XGBoost (SMOTE RFM & SMOTE CLV)
 
-![XGBoost](https://github.com/Ssureeporn/BADS7105_CRM/blob/main/Assignment04_CampaignResponseModel/04_5_2_XGBoost%20(SMOTE%20RFM%20%26%20SMOTE%20CLV).jpg)
+![XGBoost](https://github.com/Ssureeporn/BADS7105_CRM/blob/main/Assignment04_Campaign_Response_Model/04_5_2_XGBoost%20(SMOTE%20RFM%20%26%20SMOTE%20CLV).jpg)
 
 ## 6. Tune Model
 
 XGBoost - SMOTE CLV
 
-![XGBoost - SMOTE CLV](https://github.com/Ssureeporn/BADS7105_CRM/blob/main/Assignment04_CampaignResponseModel/04_6_XGBoost%20-%20SMOTE%20CLV.jpg)
+![XGBoost - SMOTE CLV](https://github.com/Ssureeporn/BADS7105_CRM/blob/main/Assignment04_Campaign_Response_Model/04_6_XGBoost%20-%20SMOTE%20CLV.jpg)
 
 ## 7. Result Discussion
 
