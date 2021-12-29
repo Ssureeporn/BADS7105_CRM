@@ -1,7 +1,5 @@
 # Design Thinking
 
-## Iphone color blue or pink
-
 ![Design Thinking1](https://github.com/Ssureeporn/BADS7105_CRM/blob/main/Assignment08_Design_Thinking/08_Design_Thinking_1.jpg)
 
 ![Design Thinking2](https://github.com/Ssureeporn/BADS7105_CRM/blob/main/Assignment08_Design_Thinking/08_Design_Thinking_2.jpg)
@@ -15,4 +13,3 @@
 ![Design Thinking6](https://github.com/Ssureeporn/BADS7105_CRM/blob/main/Assignment08_Design_Thinking/08_Design_Thinking_6.jpg)
 
 ![Design Thinking7](https://github.com/Ssureeporn/BADS7105_CRM/blob/main/Assignment08_Design_Thinking/08_Design_Thinking_7.jpg)
-
